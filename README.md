@@ -1,2 +1,2 @@
 # odin-recipes
-Estou comeándo o Projeto Odim e tenho muitas espectativas sobre tudo. Já tenho alguns conhecimentos sobre HTML e CSS, masa ainda precisp aprender muito sobre JavaScrip.
+"I'm starting The Odin Project and I have high expectations for everything. I already have some knowledge of HTML and CSS, but I still need to learn a lot about JavaScript."
